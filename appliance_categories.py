@@ -12,7 +12,9 @@ Removes all rows with NaNs.
 
 Usage
 -----
-Alter the PATH constant and then run it!
+Alter the PATH constant to point to the path where your 
+cleaned HES dataset lives and then run the script!  You should
+end up with a file called 'appliance_names_with_group_names.csv'.
 """
 
 import pandas as pd
