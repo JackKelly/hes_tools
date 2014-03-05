@@ -1,4 +1,5 @@
-hes_tools
+HES tools
 =========
 
-Simples tools for processing the UK Government's "Household Electricity Survey" dataset
+Simple tools for processing the UK Government's "Household Electricity
+Survey" dataset.
